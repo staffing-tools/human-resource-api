@@ -1,0 +1,3 @@
+[submodule "vendor/asciidoctor-extensions-lab"]
+	path = vendor/asciidoctor-extensions-lab
+	url = https://github.com/staffing-tools/asciidoctor-extensions-lab

@@ -1,0 +1,5 @@
+= HUMAN-RESOURCE-API
+
+==  Summary
+
+include::SUMMARY[]

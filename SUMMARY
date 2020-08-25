@@ -1,0 +1,1 @@
+An OpenAPI specification for a RESTful server that manages *Human Resources*. Specifically, this API describes a server that provides a _"basic information about people"_ service. Descriptions are minimalist so that the service may be used in a wide variety of domains.
