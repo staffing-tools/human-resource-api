@@ -1,0 +1,16 @@
+= Human Resource API - Design Manual
+Daniel Maurice Davis <daniel.maurice.davis@gmail.com>
+v{version}
+:doctype: book
+:numbered:
+:chapter-label:
+:toc:
+
+[appendix]
+== Copyright and License
+
+include::COPYING[]
+
+== Summary
+
+include::SUMMARY[]
